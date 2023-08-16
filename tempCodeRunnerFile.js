@@ -1,8 +1,3 @@
-// //task-3
-// import { hello } from "./tmp/exportModule.js";
-// console.log(hello());
-
-
 // task-2-chalk
 import chalk from 'chalk';
 
