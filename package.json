@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/HitKoladiya/FSWD#readme",
   "dependencies": {
+    "@heroicons/react": "^2.0.18",
     "chalk": "^5.3.0",
+    "dotenv": "^16.3.1",
     "lower-case": "^2.0.2",
     "upper-case": "^2.0.2"
   }

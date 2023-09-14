@@ -1,0 +1,997 @@
+{
+    "allCatalogue": [
+        {
+            "lengthOfItem": "Waist Length",
+            "type": "Kurtas Men ME",
+            "fabricCare": "Regular Machine Wash",
+            "sleeve": "Long Sleeves",
+            "fabric": "Cotton",
+            "MRP": "499",
+            "catalogue": [
+                {
+                    "M": "50",
+                    "L": "50",
+                    "XL": "50",
+                    "S": 0,
+                    "XXL": "50",
+                    "XXXL": 0,
+                    "color": "Black"
+                }
+            ],
+            "originalPrice": "180",
+            "productId": "KF_501",
+            "forWhom": "Men Ethnic Wear",
+            "pattern": "Printed",
+            "colors": [
+                "mainImage",
+                "Black"
+            ],
+            "breadth": "25",
+            "comboOf": "Single",
+            "ornamentation": "-",
+            "productName": "kurta shirts",
+            "occasion": "Casual",
+            "topFabric": "-",
+            "sellingPrice": "399",
+            "description": "deevudi  As You Adorn This Short Kurta Made Out Of Cotton Material And Beautified With Digital Print Work As Shown. It Is Looking Dashing With Long And Regular Sleeves. Designed For Party Wear As Well As For Festivals. A Basic Collar Is Used For Admirable Simplicity. And It Is A Modern-Day Printed With Good Fabric Quality. Having A Simple Design Pattern And Comfortable In Wearing. Liked By Father And Son Age Groups. The Unique Look Of This Short Kurta Makes It Attractive. Pair It Up With Stylish Accessories To Look More Attractive. Note : - The Actual Product May Differ Slightly In Colour And Design From The One Illustrated In The Images.",
+            "patternType": "Ethnic Motif",
+            "topType": "-",
+            "photos": {
+                "mainImage": [
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66311463234%2FmainImage%2FKF_501.jpeg?alt=media&token=bd173299-ec31-4f79-9be9-faab1e7fcc93"
+                ],
+                "Black": [
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66311463234%2FBlack%2FKF_501.jpeg?alt=media&token=3a590eb7-e757-4132-949c-e950f03a6360"
+                ]
+            },
+            "productUniqueId": "PUD66311463234",
+            "setType": "-",
+            "weight": "200",
+            "length": "25",
+            "neck": "Mandarin",
+            "height": "3",
+            "fit": "-",
+            "stitchType": "Stitched",
+            "productType": "-",
+            "bottomType": "-",
+            "bottomFabric": "-",
+            "sleeveStyling": "Regular"
+        },
+        {
+            "sleeveStyling": "Roll-Up",
+            "productName": "kurta shirts",
+            "neck": "Mandarin",
+            "sellingPrice": "399",
+            "originalPrice": "180",
+            "description": "deevudi As You Adorn This Short Kurta Made Out Of Cotton Material And Beautified With Digital Print Work As Shown. It Is Looking Dashing With Long And Regular Sleeves. Designed For Party Wear As Well As For Festivals. A Basic Collar Is Used For Admirable Simplicity. And It Is A Modern-Day Printed With Good Fabric Quality. Having A Simple Design Pattern And Comfortable In Wearing. Liked By Father And Son Age Groups. The Unique Look Of This Short Kurta Makes It Attractive. Pair It Up With Stylish Accessories To Look More Attractive. Note : - The Actual Product May Differ Slightly In Colour And Design From The One Illustrated In The Images.",
+            "topType": "-",
+            "patternType": "Ethnic Motif",
+            "productId": "KF_502",
+            "type": "Kurtas Men ME",
+            "bottomType": "-",
+            "bottomFabric": "-",
+            "pattern": "Printed",
+            "ornamentation": "-",
+            "comboOf": "Single",
+            "length": "25",
+            "stitchType": "Stitched",
+            "fabricCare": "Regular Machine Wash",
+            "photos": {
+                "Green": [
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66312356886%2FGreen%2FKF_502.jpeg?alt=media&token=0a212980-91dd-4c7e-9c06-7176770072fc"
+                ],
+                "mainImage": [
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66312356886%2FmainImage%2FKF_502.jpeg?alt=media&token=db59f509-9945-43e8-9e9b-f3f71ff985ce"
+                ]
+            },
+            "setType": "-",
+            "fabric": "Cotton",
+            "height": "3",
+            "topFabric": "-",
+            "forWhom": "Men Ethnic Wear",
+            "sleeve": "Long Sleeves",
+            "productType": "-",
+            "fit": "-",
+            "MRP": "499",
+            "catalogue": [
+                {
+                    "L": "50",
+                    "XXXL": 0,
+                    "color": "Green",
+                    "XXL": "50",
+                    "XL": "50",
+                    "S": 0,
+                    "M": "50"
+                }
+            ],
+            "productUniqueId": "PUD66312356886",
+            "occasion": "Casual",
+            "weight": "200",
+            "lengthOfItem": "Regular",
+            "breadth": "25",
+            "colors": [
+                "mainImage",
+                "Green"
+            ]
+        },
+        {
+            "originalPrice": "180",
+            "lengthOfItem": "Regular",
+            "pattern": "Printed",
+            "topFabric": "-",
+            "weight": "200",
+            "topType": "-",
+            "patternType": "Ethnic Motif",
+            "catalogue": [
+                {
+                    "XXL": "50",
+                    "XXXL": 0,
+                    "S": 0,
+                    "M": "50",
+                    "color": "Aqua Blue",
+                    "L": "50",
+                    "XL": "50"
+                }
+            ],
+            "neck": "Mandarin",
+            "ornamentation": "-",
+            "fabric": "Cotton",
+            "breadth": "25",
+            "productType": "-",
+            "MRP": "499",
+            "fabricCare": "Regular Machine Wash",
+            "height": "3",
+            "bottomFabric": "-",
+            "type": "Kurtas Men ME",
+            "length": "25",
+            "sleeveStyling": "Regular",
+            "occasion": "Casual",
+            "productUniqueId": "PUD66313349180",
+            "setType": "-",
+            "photos": {
+                "Aqua Blue": [
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66313349180%2FAqua%20Blue%2FKF_503.jpeg?alt=media&token=f0fb7136-158c-45f4-a95a-0bebb0f201e0"
+                ],
+                "mainImage": [
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66313349180%2FmainImage%2FKF_503.jpeg?alt=media&token=2cd9d47f-e1f3-45dd-baeb-baebee631583"
+                ]
+            },
+            "productName": "kurta shirts",
+            "bottomType": "-",
+            "forWhom": "Men Ethnic Wear",
+            "sleeve": "Long Sleeves",
+            "fit": "-",
+            "productId": "KF_503",
+            "description": "deevudi As You Adorn This Short Kurta Made Out Of Cotton Material And Beautified With Digital Print Work As Shown. It Is Looking Dashing With Long And Regular Sleeves. Designed For Party Wear As Well As For Festivals. A Basic Collar Is Used For Admirable Simplicity. And It Is A Modern-Day Printed With Good Fabric Quality. Having A Simple Design Pattern And Comfortable In Wearing. Liked By Father And Son Age Groups. The Unique Look Of This Short Kurta Makes It Attractive. Pair It Up With Stylish Accessories To Look More Attractive. Note : - The Actual Product May Differ Slightly In Colour And Design From The One Illustrated In The Images.",
+            "comboOf": "Single",
+            "stitchType": "Stitched",
+            "sellingPrice": "399",
+            "colors": [
+                "mainImage",
+                "Aqua Blue"
+            ]
+        },
+        {
+            "fabric": "Cotton",
+            "weight": "200",
+            "colors": [
+                "mainImage",
+                "Multicolor"
+            ],
+            "breadth": "25",
+            "height": "3",
+            "productType": "-",
+            "sellingPrice": "399",
+            "stitchType": "Stitched",
+            "photos": {
+                "Multicolor": [
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66562962552%2FMulticolor%2FKF_504.jpeg?alt=media&token=bee20499-9bcb-43f4-a470-8eb63ff0309a"
+                ],
+                "mainImage": [
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66562962552%2FmainImage%2FKF_504.jpeg?alt=media&token=4099015c-2bfa-46b4-9281-ef60c3029f34"
+                ]
+            },
+            "MRP": "499",
+            "fit": "-",
+            "topFabric": "-",
+            "lengthOfItem": "Regular",
+            "occasion": "Casual",
+            "sleeveStyling": "Regular",
+            "originalPrice": "180",
+            "bottomFabric": "-",
+            "neck": "Mandarin",
+            "description": "di As You Adorn This Short Kurta Made Out Of Cotton Material And Beautified With Digital Print Work As Shown. It Is Looking Dashing With Long And Regular Sleeves. Designed For Party Wear As Well As For Festivals. A Basic Collar Is Used For Admirable Simplicity. And It Is A Modern-Day Printed With Good Fabric Quality. Having A Simple Design Pattern And Comfortable In Wearing. Liked By Father And Son Age Groups. The Unique Look Of This Short Kurta Makes It Attractive. Pair It Up With Stylish Accessories To Look More Attractive. Note : - The Actual Product May Differ Slightly In Colour And Design From The One Illustrated In The Images.",
+            "patternType": "Self-Desing",
+            "sleeve": "Long Sleeves",
+            "type": "Kurtas Men ME",
+            "forWhom": "Men Ethnic Wear",
+            "comboOf": "Single",
+            "fabricCare": "Regular Machine Wash",
+            "pattern": "Printed",
+            "length": "25",
+            "setType": "-",
+            "productId": "KF_504",
+            "ornamentation": "-",
+            "productUniqueId": "PUD66562962552",
+            "catalogue": [
+                {
+                    "XXXL": 0,
+                    "M": "50",
+                    "L": "50",
+                    "XL": "50",
+                    "XXL": "50",
+                    "S": 0,
+                    "color": "Multicolor"
+                }
+            ],
+            "productName": "kurta shirts",
+            "bottomType": "-",
+            "topType": "-"
+        },
+        {
+            "productUniqueId": "PUD66563133880",
+            "comboOf": "Single",
+            "sellingPrice": "399",
+            "productName": "kurta shirts",
+            "height": "3",
+            "patternType": "-",
+            "catalogue": [
+                {
+                    "L": "50",
+                    "S": 0,
+                    "XL": "50",
+                    "color": "Multicolor",
+                    "XXXL": 0,
+                    "M": "50",
+                    "XXL": "50"
+                }
+            ],
+            "forWhom": "Men Ethnic Wear",
+            "breadth": "25",
+            "sleeve": "Long Sleeves",
+            "fit": "-",
+            "bottomFabric": "-",
+            "weight": "200",
+            "sleeveStyling": "Regular",
+            "pattern": "Printed",
+            "originalPrice": "180",
+            "topFabric": "-",
+            "colors": [
+                "mainImage",
+                "Multicolor"
+            ],
+            "stitchType": "Stitched",
+            "description": "di As You Adorn This Short Kurta Made Out Of Cotton Material And Beautified With Digital Print Work As Shown. It Is Looking Dashing With Long And Regular Sleeves. Designed For Party Wear As Well As For Festivals. A Basic Collar Is Used For Admirable Simplicity. And It Is A Modern-Day Printed With Good Fabric Quality. Having A Simple Design Pattern And Comfortable In Wearing. Liked By Father And Son Age Groups. The Unique Look Of This Short Kurta Makes It Attractive. Pair It Up With Stylish Accessories To Look More Attractive. Note : - The Actual Product May Differ Slightly In Colour And Design From The One Illustrated In The Images.",
+            "occasion": "Casual",
+            "ornamentation": "-",
+            "productType": "-",
+            "setType": "-",
+            "neck": "Mandarin",
+            "length": "25",
+            "fabric": "Cotton",
+            "type": "Kurtas Men ME",
+            "MRP": "499",
+            "productId": "KF_505",
+            "fabricCare": "Regular Machine Wash",
+            "topType": "-",
+            "lengthOfItem": "Regular",
+            "photos": {
+                "mainImage": [
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66563133880%2FmainImage%2FKF_505.jpeg?alt=media&token=72872c3b-3ce5-460c-b14b-61c4735ed32d"
+                ],
+                "Multicolor": [
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66563133880%2FMulticolor%2FKF_505.jpeg?alt=media&token=4485ddad-5a4a-47ff-bd79-60514777d33e"
+                ]
+            },
+            "bottomType": "-"
+        },
+        {
+            "colors": [
+                "mainImage",
+                "Multicolor"
+            ],
+            "breadth": "25",
+            "sleeveStyling": "Regular",
+            "weight": "200",
+            "pattern": "Printed",
+            "sleeve": "Long Sleeves",
+            "photos": {
+                "Multicolor": [
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66563380437%2FMulticolor%2FKF_506.jpeg?alt=media&token=256ac5d8-f202-4dca-a2bd-6daae421696d"
+                ],
+                "mainImage": [
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66563380437%2FmainImage%2FKF_506.jpeg?alt=media&token=0e41e630-b876-4aa6-9e8f-bcac04f588fb"
+                ]
+            },
+            "topFabric": "-",
+            "stitchType": "Stitched",
+            "productType": "-",
+            "productUniqueId": "PUD66563380437",
+            "neck": "Mandarin",
+            "type": "Kurtas Men ME",
+            "height": "3",
+            "length": "25",
+            "productId": "KF_506",
+            "topType": "-",
+            "fabricCare": "Regular Machine Wash",
+            "originalPrice": "180",
+            "forWhom": "Men Ethnic Wear",
+            "bottomType": "-",
+            "MRP": "499",
+            "productName": "kurta shirts",
+            "ornamentation": "-",
+            "lengthOfItem": "Regular",
+            "comboOf": "Single",
+            "fit": "-",
+            "occasion": "Casual",
+            "sellingPrice": "399",
+            "setType": "-",
+            "description": "di As You Adorn This Short Kurta Made Out Of Cotton Material And Beautified With Digital Print Work As Shown. It Is Looking Dashing With Long And Regular Sleeves. Designed For Party Wear As Well As For Festivals. A Basic Collar Is Used For Admirable Simplicity. And It Is A Modern-Day Printed With Good Fabric Quality. Having A Simple Design Pattern And Comfortable In Wearing. Liked By Father And Son Age Groups. The Unique Look Of This Short Kurta Makes It Attractive. Pair It Up With Stylish Accessories To Look More Attractive. Note : - The Actual Product May Differ Slightly In Colour And Design From The One Illustrated In The Images.",
+            "bottomFabric": "-",
+            "fabric": "Cotton",
+            "catalogue": [
+                {
+                    "XXXL": 0,
+                    "XL": "50",
+                    "XXL": "50",
+                    "M": "50",
+                    "color": "Multicolor",
+                    "S": 0,
+                    "L": "50"
+                }
+            ],
+            "patternType": "-"
+        },
+        {
+            "pattern": "Embroidered",
+            "breadth": "25",
+            "sellingPrice": "400",
+            "height": "3",
+            "productName": "Women Embroidered Viscose Rayon Anarkali Kurta",
+            "occasion": "Daily",
+            "stitchType": "Stitched",
+            "comboOf": "Single",
+            "sleeveStyling": "Regular",
+            "fabric": "Rayon",
+            "fabricCare": "Regular Machine Wash",
+            "topFabric": "-",
+            "patternType": "Solid",
+            "productType": "Anarkali Suit",
+            "bottomFabric": "-",
+            "originalPrice": "220",
+            "productId": "zallar kurti",
+            "fit": "Flared",
+            "length": "25",
+            "topType": "-",
+            "catalogue": [
+                {
+                    "L": "50",
+                    "S": "50",
+                    "XXL": "50",
+                    "XL": "50",
+                    "XXXL": "50",
+                    "M": "50",
+                    "color": "Green"
+                },
+                {
+                    "S": "50",
+                    "M": "50",
+                    "XL": "50",
+                    "color": "Blue",
+                    "L": "50",
+                    "XXXL": "50",
+                    "XXL": "50"
+                },
+                {
+                    "XXL": "50",
+                    "XXXL": "50",
+                    "XL": "50",
+                    "L": "50",
+                    "S": "50",
+                    "color": "Teal",
+                    "M": "50"
+                },
+                {
+                    "XL": "50",
+                    "XXXL": "50",
+                    "XXL": "50",
+                    "L": 49,
+                    "M": "50",
+                    "S": "50",
+                    "color": "Maroon"
+                }
+            ],
+            "sleeve": "Three-Quarter Sleeves",
+            "ornamentation": "Embroidered",
+            "description": "Women Embroidery work  Rayon Anarkali  single Kurta ",
+            "type": "Kurtis WE",
+            "photos": {
+                "Maroon": [
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66564491499%2FMaroon%2F11.JPG?alt=media&token=cc2c7f7b-6e6f-4857-a55f-5439352fb56b",
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66564491499%2FMaroon%2F12.JPG?alt=media&token=be53d84b-17de-42c4-9035-a3462c6a1e9c",
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66564491499%2FMaroon%2F14.JPG?alt=media&token=a66c3d91-898c-4378-8926-ef9055114c8c",
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66564491499%2FMaroon%2F15.JPG?alt=media&token=124d7c41-838d-40ae-bcbd-6e4023dc6f3f"
+                ],
+                "mainImage": [
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66564491499%2FmainImage%2F14.JPG?alt=media&token=dfd92e32-318b-4b8f-b960-bc7a300415db"
+                ],
+                "Green": [
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66564491499%2FGreen%2F21.JPG?alt=media&token=06df08be-97ed-471b-a144-d2d3d9e55b48",
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66564491499%2FGreen%2F22.JPG?alt=media&token=7c2df0b2-8230-4caa-ae83-74f9a981ded9",
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66564491499%2FGreen%2F23.JPG?alt=media&token=3f4fd308-e788-45a3-9d37-dd73a2e6ad1b",
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66564491499%2FGreen%2F24.JPG?alt=media&token=2ce1ab2b-0271-4a59-b2cd-c87c10db7a65"
+                ],
+                "Teal": [
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66564491499%2FTeal%2F1.JPG?alt=media&token=723d602c-833e-4d9b-81f9-6a2f6f9513e2",
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66564491499%2FTeal%2F2.JPG?alt=media&token=4bd400f6-22ff-416f-a414-929eabe77a31",
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66564491499%2FTeal%2F3.JPG?alt=media&token=69b35c75-3c8f-462e-bbcc-b47f2f2e118d",
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66564491499%2FTeal%2F4.JPG?alt=media&token=38639b09-d9d4-40a6-bf27-f6588abf853d"
+                ],
+                "Blue": [
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66564491499%2FBlue%2F27%20.JPG?alt=media&token=1a081491-3a47-456b-9eb2-3342b5afc3f2",
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66564491499%2FBlue%2F28.JPG?alt=media&token=24819c88-8f23-4170-a199-a4ceeff0facd",
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66564491499%2FBlue%2F30.JPG?alt=media&token=12967ea6-de69-4e37-b56b-e62856a9986a",
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66564491499%2FBlue%2F32.JPG?alt=media&token=4f1e7587-31e1-4dd3-973b-8ee2b6acb3aa"
+                ]
+            },
+            "setType": "-",
+            "forWhom": "Women Ethnic Wear",
+            "MRP": "699",
+            "colors": [
+                "mainImage",
+                "Green",
+                "Blue",
+                "Teal",
+                "Maroon"
+            ],
+            "weight": "250",
+            "lengthOfItem": "Calf Length",
+            "productUniqueId": "PUD66564491499",
+            "neck": "Round",
+            "bottomType": "-"
+        },
+        {
+            "comboOf": "Single",
+            "lengthOfItem": "-",
+            "stitchType": "Stitched",
+            "description": "Flaunt sartorial elegance wearing  embroidered A-line kurta by DEEVUDI . Look classy and stylish in this piece and revel in the comfort of the soft rayon fabric. This piece can be matched with either legging or worn as a dress for a fashionable weekend ensemble.",
+            "catalogue": [
+                {
+                    "L": "50",
+                    "XXXL": "50",
+                    "M": "50",
+                    "S": "50",
+                    "color": "Maroon",
+                    "XL": "50",
+                    "XXL": "50"
+                },
+                {
+                    "S": "50",
+                    "L": "50",
+                    "XL": "50",
+                    "M": "50",
+                    "XXL": "50",
+                    "XXXL": "50",
+                    "color": "Blue"
+                },
+                {
+                    "color": "Green",
+                    "XL": "50",
+                    "M": "50",
+                    "S": "50",
+                    "L": "50",
+                    "XXL": "50",
+                    "XXXL": "50"
+                },
+                {
+                    "L": "50",
+                    "M": "50",
+                    "color": "Black",
+                    "XXXL": "50",
+                    "XL": "50",
+                    "XXL": "50",
+                    "S": "50"
+                },
+                {
+                    "M": "50",
+                    "XXL": "50",
+                    "XXXL": "50",
+                    "L": "50",
+                    "XL": "50",
+                    "S": "50",
+                    "color": "Teal"
+                }
+            ],
+            "type": "Kurtis WE",
+            "height": "3",
+            "weight": "250",
+            "productType": "-",
+            "setType": "-",
+            "occasion": "Daily",
+            "colors": [
+                "mainImage",
+                "Maroon",
+                "Blue",
+                "Green",
+                "Black",
+                "Teal"
+            ],
+            "fabric": "Rayon",
+            "topType": "-",
+            "breadth": "25",
+            "sleeveStyling": "Regular",
+            "productName": "Women Embroidered Cotton Rayon Kurti",
+            "productUniqueId": "PUD66565266883",
+            "pattern": "Embroidered",
+            "originalPrice": "220",
+            "topFabric": "-",
+            "ornamentation": "Embroidered",
+            "forWhom": "Women Ethnic Wear",
+            "productId": "kurti 1001",
+            "bottomFabric": "-",
+            "fit": "-",
+            "neck": "Round",
+            "bottomType": "-",
+            "patternType": "Ethnic Motif",
+            "MRP": "699",
+            "sleeve": "-",
+            "photos": {
+                "Blue": [
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66565266883%2FBlue%2F1Blue.jpg?alt=media&token=7149c2ed-ebd3-4e51-beba-cd9d3a0d9162",
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66565266883%2FBlue%2F2Blue.jpg?alt=media&token=69ec69c8-9c27-4d53-a5b1-d822619c5b6a",
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66565266883%2FBlue%2F3Blue.jpg?alt=media&token=3a7b2e0f-e1f0-4b1b-8271-6af3e038274c"
+                ],
+                "mainImage": [
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66565266883%2FmainImage%2FWINE%201.jpg?alt=media&token=47c76d00-d2ed-4096-8699-68c04f94cdf5"
+                ],
+                "Black": [
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66565266883%2FBlack%2FBLACK%201.jpg?alt=media&token=73ffb950-2886-4ef6-91f8-65d355c6f0de",
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66565266883%2FBlack%2FBLACK%202.jpg?alt=media&token=b589e603-65a1-4c9e-90cb-4644fda23f8c",
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66565266883%2FBlack%2FBLACK%203.jpg?alt=media&token=fff32156-75c2-4612-94dc-33a9fbdcf72e",
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66565266883%2FBlack%2FBLACK%204.jpg?alt=media&token=b768b35d-456a-44e3-b4d4-2a7dbebe62d5"
+                ],
+                "Green": [
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66565266883%2FGreen%2FGREEN%201.jpg?alt=media&token=1fd25837-6fdd-4bdb-bba4-d0d04bec2bce",
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66565266883%2FGreen%2FGREEN%202.jpg?alt=media&token=75b46251-f59a-46e2-b34c-09fda6403252",
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66565266883%2FGreen%2FGREEN%203.jpg?alt=media&token=67039a8a-eb10-46d4-96d9-2235a726c1a1",
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66565266883%2FGreen%2FGREEN%204.jpg?alt=media&token=ee678abe-f302-4ccc-8731-a8e68383da7d"
+                ],
+                "Teal": [
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66565266883%2FTeal%2F1%20MORPICH%20.jpg?alt=media&token=906ca99f-8745-496a-af56-e434077db192",
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66565266883%2FTeal%2F2%20MORPITCH%20.jpg?alt=media&token=b02df322-71a7-4e73-8730-ac20ec4dbadb",
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66565266883%2FTeal%2F3%20MORPITCH%20.jpg?alt=media&token=df7bd6c2-01f6-47d5-bb2e-cc2c854ba93e",
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66565266883%2FTeal%2F4%20MORPICH%20.jpg?alt=media&token=7b0e7276-04be-4c14-bf9e-5e5ae369a303"
+                ],
+                "Maroon": [
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66565266883%2FMaroon%2FWINE%201.jpg?alt=media&token=e28f3fd6-0c9c-43cd-9e86-6d6cb0848d7e",
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66565266883%2FMaroon%2FWINE%202.jpg?alt=media&token=51e2def2-e8e4-41ca-9253-ab88d5f45c33",
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66565266883%2FMaroon%2FWINE%203.jpg?alt=media&token=ff6d1591-1d39-4251-8ddc-c1d3f7258f4a",
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66565266883%2FMaroon%2FWINE%204.jpg?alt=media&token=e406d418-9f92-4f52-8d20-99a5a8ed8337"
+                ]
+            },
+            "fabricCare": "Regular Machine Wash",
+            "length": "25",
+            "sellingPrice": "400"
+        },
+        {
+            "neck": "V-neck",
+            "description": "\"Give yourself the joy of endless styling with this versatile  crop top. Featuring a elastic top front, a V-neck and Puff  Sleeves, here’s a piece that can take you through every occasion and every mood. Style Tip: Pair it with  jeans and sneakers for a street style\"",
+            "originalPrice": "150",
+            "sellingPrice": "299",
+            "sleeveStyling": "Cap Sleeves",
+            "bottomFabric": "-",
+            "type": "Tops & Tunics WW",
+            "photos": {
+                "Green": [
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66566338148%2FGreen%2F5.jpg?alt=media&token=f900a059-ace3-4705-a746-d7aa198b9029",
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66566338148%2FGreen%2F6.jpg?alt=media&token=16f84d35-0ca7-4706-b6db-86d6be5b56fa",
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66566338148%2FGreen%2F7.jpg?alt=media&token=d8bcb663-138a-4e3b-8e13-913e5a42d563",
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66566338148%2FGreen%2F8.jpg?alt=media&token=f16ce74e-e47d-4c0f-bb29-1acfb7d7a4d7"
+                ],
+                "Red": [
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66566338148%2FRed%2F9.jpg?alt=media&token=dbf97de1-84e9-49db-aead-0460563c98d2",
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66566338148%2FRed%2F10.jpg?alt=media&token=ee09584e-8326-4a86-bdca-ad1f039166a0",
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66566338148%2FRed%2F11.jpg?alt=media&token=598e673d-692a-4109-bca2-b7b2a0481c0f",
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66566338148%2FRed%2F12.jpg?alt=media&token=b119222d-6981-4a96-93b1-75cc6771cd9a"
+                ],
+                "Pink": [
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66566338148%2FPink%2F1.jpg?alt=media&token=5259ba6f-50ad-4dde-b697-b30e8fff85bd",
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66566338148%2FPink%2F2.jpg?alt=media&token=77a1203a-0f80-4ed8-87ce-f65a30e51288",
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66566338148%2FPink%2F3.jpg?alt=media&token=0dda5df6-4032-4a9a-8369-ce63a49ca672",
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66566338148%2FPink%2F4.jpg?alt=media&token=070fc14c-aed9-4aba-b55c-5d14e241c9bd"
+                ],
+                "mainImage": [
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66566338148%2FmainImage%2F1.jpg?alt=media&token=765cb8f6-53d5-4bec-971b-71cb26b15b6c"
+                ],
+                "Teal": [
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66566338148%2FTeal%2F13.jpg?alt=media&token=417430e8-a377-480b-99fb-06f5c969d07c",
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66566338148%2FTeal%2F14.jpg?alt=media&token=088093f4-8ee4-477a-8ab5-47464dccea27",
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66566338148%2FTeal%2F15.jpg?alt=media&token=f7157d25-191a-486c-bbc5-f38482287ed8"
+                ]
+            },
+            "colors": [
+                "mainImage",
+                "Pink",
+                "Green",
+                "Teal",
+                "Red"
+            ],
+            "length": "25",
+            "topType": "-",
+            "height": "3",
+            "bottomType": "-",
+            "patternType": "Solid",
+            "MRP": "499",
+            "pattern": "Self-Design",
+            "breadth": "25",
+            "setType": "-",
+            "productId": "V-Nack Top 501",
+            "lengthOfItem": "Regular",
+            "fabricCare": "Regular Machine Wash",
+            "productType": "-",
+            "occasion": "Casual",
+            "productUniqueId": "PUD66566338148",
+            "stitchType": "Stitched",
+            "productName": "V-Nack Top",
+            "comboOf": "Single",
+            "topFabric": "-",
+            "weight": "200",
+            "ornamentation": "-",
+            "sleeve": "Three-Quarter Sleeves",
+            "fabric": "Crepe",
+            "catalogue": [
+                {
+                    "XXXL": 0,
+                    "L": "50",
+                    "color": "Pink",
+                    "M": "50",
+                    "S": "50",
+                    "XL": 0,
+                    "XXL": 0
+                },
+                {
+                    "XL": 0,
+                    "S": "50",
+                    "M": "50",
+                    "color": "Green",
+                    "XXXL": 0,
+                    "L": "50",
+                    "XXL": 0
+                },
+                {
+                    "XXXL": 0,
+                    "XL": 0,
+                    "color": "Teal",
+                    "L": "50",
+                    "S": "50",
+                    "M": "50",
+                    "XXL": 0
+                },
+                {
+                    "XL": 0,
+                    "XXL": 0,
+                    "color": "Red",
+                    "L": "50",
+                    "M": "50",
+                    "XXXL": 0,
+                    "S": "50"
+                }
+            ],
+            "fit": "Crop Top Kurti",
+            "forWhom": "Women Western Wear"
+        },
+        {
+            "height": "3",
+            "type": "Kurtis WE",
+            "pattern": "Printed",
+            "originalPrice": "200",
+            "catalogue": [
+                {
+                    "XXXL": "50",
+                    "color": "Maroon",
+                    "L": "50",
+                    "S": "50",
+                    "XL": "50",
+                    "M": "50",
+                    "XXL": "50"
+                },
+                {
+                    "M": "50",
+                    "color": "Blue",
+                    "XL": "50",
+                    "XXXL": "50",
+                    "S": "50",
+                    "XXL": "50",
+                    "L": "50"
+                },
+                {
+                    "XXL": "50",
+                    "L": "50",
+                    "XXXL": "50",
+                    "S": "50",
+                    "XL": "50",
+                    "color": "Green",
+                    "M": "50"
+                },
+                {
+                    "XL": "50",
+                    "L": "50",
+                    "M": "50",
+                    "XXXL": "50",
+                    "S": "50",
+                    "XXL": "50",
+                    "color": "Teal"
+                }
+            ],
+            "bottomType": "-",
+            "neck": "Notch",
+            "fabricCare": "Regular Machine Wash",
+            "topFabric": "-",
+            "weight": "200",
+            "productType": "-",
+            "length": "25",
+            "colors": [
+                "mainImage",
+                "Blue",
+                "Maroon",
+                "Green",
+                "Teal"
+            ],
+            "MRP": "499",
+            "fit": "Anarkali",
+            "sellingPrice": "399",
+            "sleeveStyling": "Regular",
+            "stitchType": "Stitched",
+            "sleeve": "Three-Quarter Sleeves",
+            "ornamentation": "-",
+            "photos": {
+                "Green": [
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66994399148%2FGreen%2F13.jpg?alt=media&token=b0a006eb-af8f-4068-88e5-5670ed5ac1dd",
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66994399148%2FGreen%2F15.jpg?alt=media&token=0cc0b1a0-1f9a-4ae0-91c8-4a6c7d5c488b",
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66994399148%2FGreen%2F16.jpg?alt=media&token=9617df16-bde1-4553-99dd-35a7dcd8d9b7"
+                ],
+                "Maroon": [
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66994399148%2FMaroon%2F9.jpg?alt=media&token=fd7a747f-5def-46ce-b538-ca5960d29638",
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66994399148%2FMaroon%2F11.jpg?alt=media&token=7f2444af-85f0-46b9-ae96-1ab5333db122",
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66994399148%2FMaroon%2F12.jpg?alt=media&token=613bacbd-e1e2-4ca9-8c7e-6fa6ee336a90"
+                ],
+                "mainImage": [
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66994399148%2FmainImage%2F12.jpg?alt=media&token=8e4af0fa-488a-4150-8c49-473581064951"
+                ],
+                "Teal": [
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66994399148%2FTeal%2F17%20-%20Copy.jpg?alt=media&token=76f7b9a8-76c3-4434-b7b3-3b77524fa43b",
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66994399148%2FTeal%2F18.jpg?alt=media&token=58cb49b8-6a3c-49ad-80d2-dd520a1917c5",
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66994399148%2FTeal%2F19.jpg?alt=media&token=0e63eb0b-9528-4d43-98ef-adb74ffcdb59",
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66994399148%2FTeal%2F20.jpg?alt=media&token=fac42076-1b61-47de-99b7-f89b81e6d1fe"
+                ],
+                "Blue": [
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66994399148%2FBlue%2F5.jpg?alt=media&token=4217b27f-9176-4b13-a0cc-a7bc66039678",
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66994399148%2FBlue%2F7.jpg?alt=media&token=1fa70eb6-dbad-4e26-96b0-056ef639fadd",
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66994399148%2FBlue%2F8.jpg?alt=media&token=a83730b6-7f85-4b55-94ec-3befae93c768"
+                ]
+            },
+            "patternType": "Self-Desing",
+            "productId": "4001 ",
+            "fabric": "Rayon",
+            "bottomFabric": "-",
+            "comboOf": "Single",
+            "setType": "-",
+            "productUniqueId": "PUD66994399148",
+            "lengthOfItem": "Regular",
+            "occasion": "Casual",
+            "description": "Rayon DesignerWear this casual yet attractive design rayon Printed Anarkali kurti.The Anarkali Kurti added to your wardrobe, will always be your first choice to wear.",
+            "topType": "-",
+            "productName": "pinfit Women Dress Gold Foil Rayon Women Anarkali kurti",
+            "breadth": "25",
+            "forWhom": "Women Ethnic Wear"
+        },
+        {
+            "productType": "-",
+            "stitchType": "Stitched",
+            "comboOf": "Single",
+            "MRP": "599",
+            "type": "Kurtis WE",
+            "sleeveStyling": "Regular",
+            "fit": "A-line",
+            "fabricCare": "Regular Machine Wash",
+            "weight": "220",
+            "sellingPrice": "400",
+            "length": "25",
+            "productName": "Rayon Women's Embroidery Kurti for Frock Style Kurti for Women",
+            "topFabric": "-",
+            "height": "3",
+            "colors": [
+                "mainImage",
+                "Maroon",
+                "Teal",
+                "Blue",
+                "Green"
+            ],
+            "bottomFabric": "-",
+            "originalPrice": "200",
+            "sleeve": "Three-Quarter Sleeves",
+            "productId": "4002",
+            "lengthOfItem": "Calf Length",
+            "breadth": "25",
+            "setType": "-",
+            "catalogue": [
+                {
+                    "L": "50",
+                    "XXL": "50",
+                    "color": "Maroon",
+                    "XXXL": "50",
+                    "S": "50",
+                    "XL": "50",
+                    "M": "50"
+                },
+                {
+                    "color": "Teal",
+                    "XXL": "50",
+                    "L": "50",
+                    "M": "5",
+                    "S": "50",
+                    "XXXL": "50",
+                    "XL": "50"
+                },
+                {
+                    "L": "50",
+                    "XXL": "50",
+                    "M": "50",
+                    "XL": "50",
+                    "S": "50",
+                    "color": "Blue",
+                    "XXXL": "50"
+                },
+                {
+                    "color": "Green",
+                    "S": "50",
+                    "L": "50",
+                    "XXXL": "50",
+                    "XL": "50",
+                    "M": "50",
+                    "XXL": "50"
+                }
+            ],
+            "forWhom": "Women Ethnic Wear",
+            "patternType": "Self-Desing",
+            "description": "presenting all new branded cotton mill print with straight kurta for women and girl. its mandrine round neck with 3/4 th sleeves pattern cotton rayon febrick give you perfect fitting and its print you perfect look.this kurti design and developer by professional worker and stichied and finished well we recommended you to buy this product from deevudi Fashion\r\n\r\n",
+            "bottomType": "-",
+            "fabric": "Rayon",
+            "topType": "-",
+            "neck": "Round",
+            "photos": {
+                "Green": [
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66995371485%2FGreen%2F1.jpg?alt=media&token=122b98fa-1e6c-4821-8b59-f31af07cba74",
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66995371485%2FGreen%2F5.jpg?alt=media&token=b12df73b-06cf-41a4-9219-96847a76b512",
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66995371485%2FGreen%2F9.jpg?alt=media&token=9cbcbe20-2c84-4c9c-ae22-32894b3bafe9"
+                ],
+                "Blue": [
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66995371485%2FBlue%2F2.jpg?alt=media&token=d3e31faf-e7ca-4d8a-ba5c-952d820d8f4e",
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66995371485%2FBlue%2F6.jpg?alt=media&token=adc3ed70-55e6-4463-9350-715716171326",
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66995371485%2FBlue%2F10.jpg?alt=media&token=f892f600-ae74-4461-a7c7-7de0b853d86e"
+                ],
+                "Teal": [
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66995371485%2FTeal%2F3.jpg?alt=media&token=1c1b5b6b-9903-4b4b-84b5-9b9f8e51f15a",
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66995371485%2FTeal%2F7.jpg?alt=media&token=f219156c-7d75-4101-a396-d641b46a1747",
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66995371485%2FTeal%2F11.jpg?alt=media&token=bb89caca-2b7f-45c5-b46c-4882ea8f76d2"
+                ],
+                "Maroon": [
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66995371485%2FMaroon%2F4.jpg?alt=media&token=4ab1b4ac-dbf8-46b9-a39c-407c6cbaa89e",
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66995371485%2FMaroon%2F8.jpg?alt=media&token=a98786f1-9ab6-4efa-8a70-e2e105631a94",
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66995371485%2FMaroon%2F12.jpg?alt=media&token=7a16736d-f480-4de4-baf7-19cd0dedfb45"
+                ],
+                "mainImage": [
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66995371485%2FmainImage%2F1.jpg?alt=media&token=49633ad6-3756-409d-a9e1-94ff4842d910"
+                ]
+            },
+            "pattern": "Embroidered",
+            "productUniqueId": "PUD66995371485",
+            "occasion": "Festive",
+            "ornamentation": "Embroidered"
+        },
+        {
+            "fabricCare": "Regular Machine Wash",
+            "colors": [
+                "mainImage",
+                "Maroon",
+                "Teal",
+                "Blue",
+                "Green"
+            ],
+            "ornamentation": "Embroidered",
+            "originalPrice": "200",
+            "occasion": "Festive",
+            "fit": "A-line",
+            "productType": "-",
+            "sleeveStyling": "Regular",
+            "comboOf": "Single",
+            "catalogue": [
+                {
+                    "XXL": "50",
+                    "XXXL": "50",
+                    "M": "50",
+                    "S": "50",
+                    "color": "Maroon",
+                    "L": "50",
+                    "XL": "50"
+                },
+                {
+                    "XL": "50",
+                    "L": "50",
+                    "M": "5",
+                    "XXXL": "50",
+                    "color": "Teal",
+                    "XXL": "50",
+                    "S": "50"
+                },
+                {
+                    "color": "Blue",
+                    "M": "50",
+                    "XXXL": "50",
+                    "S": "50",
+                    "XL": "50",
+                    "XXL": "50",
+                    "L": "50"
+                },
+                {
+                    "color": "Green",
+                    "XL": "50",
+                    "S": "50",
+                    "XXXL": "50",
+                    "L": "50",
+                    "XXL": "50",
+                    "M": "50"
+                }
+            ],
+            "setType": "-",
+            "productId": "4002",
+            "type": "Kurtis WE",
+            "topType": "-",
+            "patternType": "Self-Desing",
+            "MRP": "599",
+            "pattern": "Embroidered",
+            "length": "25",
+            "breadth": "25",
+            "productName": "Rayon Women's Embroidery Kurti for Frock Style Kurti for Women",
+            "sellingPrice": "400",
+            "height": "3",
+            "neck": "Round",
+            "topFabric": "-",
+            "forWhom": "Women Ethnic Wear",
+            "fabric": "Rayon",
+            "bottomFabric": "-",
+            "bottomType": "-",
+            "description": "presenting all new branded cotton mill print with straight kurta for women and girl. its mandrine round neck with 3/4 th sleeves pattern cotton rayon febrick give you perfect fitting and its print you perfect look.this kurti design and developer by professional worker and stichied and finished well we recommended you to buy this product from deevudi Fashion\r\n\r\n",
+            "photos": {
+                "Blue": [
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66995371498%2FBlue%2F2.jpg?alt=media&token=feb5b6c6-303d-4515-b723-e813c095ec8f",
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66995371498%2FBlue%2F6.jpg?alt=media&token=10be70c7-601b-4f62-8f83-6615fe104424",
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66995371498%2FBlue%2F10.jpg?alt=media&token=42fcdc37-433a-4bc5-a725-12f7fbd3d7a8"
+                ],
+                "Teal": [
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66995371498%2FTeal%2F3.jpg?alt=media&token=3f1aebc5-2386-40e0-9dc0-b93b3769b887",
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66995371498%2FTeal%2F7.jpg?alt=media&token=3468d74c-e078-4f31-9e28-15332f8ba5ff",
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66995371498%2FTeal%2F11.jpg?alt=media&token=4979907c-82bf-4639-8a50-e7150b2aa6e2"
+                ],
+                "Green": [
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66995371498%2FGreen%2F1.jpg?alt=media&token=b0b804b1-3bd5-40f4-87ed-bd866b1dbbbb",
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66995371498%2FGreen%2F5.jpg?alt=media&token=6412a5ed-a349-49a0-a5c0-5033f2587c20",
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66995371498%2FGreen%2F9.jpg?alt=media&token=5778b121-2395-4e67-9255-67bb29d04e11"
+                ],
+                "Maroon": [
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66995371498%2FMaroon%2F4.jpg?alt=media&token=3ca5b6ee-a6f2-4a92-a2e2-851bd970e6a7",
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66995371498%2FMaroon%2F8.jpg?alt=media&token=5af636db-a009-4b9f-9956-0759a4a8545f",
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66995371498%2FMaroon%2F12.jpg?alt=media&token=3881ffe1-0d4c-47f9-af3b-c3633f0f0cd8"
+                ],
+                "mainImage": [
+                    "https://firebasestorage.googleapis.com/v0/b/brijen-web-1.appspot.com/o/catalogue%2FPUD66995371498%2FmainImage%2F1.jpg?alt=media&token=7bc09294-eea0-43cf-9cbb-d9fddfd9a045"
+                ]
+            },
+            "stitchType": "Stitched",
+            "weight": "220",
+            "lengthOfItem": "Calf Length",
+            "sleeve": "Three-Quarter Sleeves",
+            "productUniqueId": "PUD66995371498"
+        }
+    ]
+}

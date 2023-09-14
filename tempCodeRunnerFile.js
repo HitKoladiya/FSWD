@@ -1,14 +1,12 @@
-// task-2-chalk
-import chalk from 'chalk';
-
-console.log(chalk.blue('Hello world!'));
-
-// task-2-upper-case
-import upperCase from 'upper-case';
-
-console.log(upperCase.upperCase('hello world!'));
-
-// task-2-lower-case
-import lowerCase from 'lower-case';
-
-console.log(lowerCase.lowerCase('HELLO WORLD!'));
+public_users.get("/title/:title", function (req, res) {
+  //Write your code here
+  const title = req.params.title.toLowerCase();
+  const filteredBooks = Object.values(books).filter((book) => {
+    book.title.toLowerCase().includes(title);
+  });
+  if (filteredBooks.length > 0) {
+    res.status(404).json({ message: "Book not found" });
+  } else {
+    res.status(200).json(filteredBooks);
+  }
+});
